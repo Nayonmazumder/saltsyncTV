@@ -3,6 +3,8 @@
 http://10.2.2.10:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports
 http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:0,T-Sports(BackUP)
+http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
 #EXTINF:0,G-TV
 http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
@@ -29,10 +31,22 @@ http://10.2.2.10:8088/203/tracks-v1a1/mono.m3u8
 http://10.2.2.10:8088/204/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jamuna TV
 http://10.2.2.10:8088/209/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jamuna TV(BackUP)
+http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ekattor TV HD
+http://103.205.133.71/EkattorFHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Channel 24
+http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE Bangla HD
 http://10.2.2.10:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:0,ZEE Bangla HD (Global)
+http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF:0,Star Jalsha HD
 http://10.2.2.10:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Jalsha HD (Backup)
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:0,Star Jalsha HD (Global)
+http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jalsha Movies
 http://10.2.2.10:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla HD
