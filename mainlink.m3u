@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:0,Live SPORT
 http://10.2.2.10:8088/101/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sports 18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports
 http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports(BackUP)
-http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:0,G-TV
 http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
@@ -65,3 +67,5 @@ http://10.2.2.10:8088/406/tracks-v1a1/mono.m3u8
 http://10.2.2.10:8088/801/tracks-v1a1/mono.m3u8
 #EXTINF:0,NAT GEO
 http://10.2.2.10:8088/802/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Movies HD
+http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
