@@ -6,7 +6,7 @@ http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports
 http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports(BackUP)
-http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:0,G-TV
 http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
@@ -34,21 +34,23 @@ http://10.2.2.10:8088/204/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jamuna TV
 http://10.2.2.10:8088/209/tracks-v1a1/mono.m3u8
 #EXTINF:0,Somoy TV (GLOB)
-http://103.175.242.10:8080/09-Somoy/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/somoy/tracks-a1/mono.m3u8
 #EXTINF:0,Ekattor TV HD
-http://103.205.133.71/EkattorFHD/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/ekattor/tracks-v1a1/mono.m3u8
 #EXTINF:0,Channel 24
-http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/hls/channel24/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE Bangla HD
 http://10.2.2.10:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:0,ZEE Bangla HD (Backup)
+http://bapatv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZEE Bangla HD (Global)
-http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
+https://starshare.live:443/live/18531853/18531853/98881.ts
 #EXTINF:0,Star Jalsha HD
 http://10.2.2.10:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Jalsha HD (Backup)
-http://172.17.50.112/live/antbd1003/index.m3u8
+http://bapatv.live:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Jalsha HD (Global)
-http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
+https://starshare.live:443/live/18531853/18531853/198.m3u8
 #EXTINF:0,Jalsha Movies
 http://10.2.2.10:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla HD
@@ -67,5 +69,7 @@ http://10.2.2.10:8088/406/tracks-v1a1/mono.m3u8
 http://10.2.2.10:8088/801/tracks-v1a1/mono.m3u8
 #EXTINF:0,NAT GEO
 http://10.2.2.10:8088/802/tracks-v1a1/mono.m3u8
+#EXTINF:0,NAT GEO 2
+https://starshare.live:443/live/18531853/18531853/98874.ts
 #EXTINF:0,Star Movies HD
-http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+https://starshare.live:443/live/18531853/18531853/9384.m3u8
