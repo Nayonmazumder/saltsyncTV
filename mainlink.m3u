@@ -6,11 +6,13 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 #EXTINF:0,T-Sports
 http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports(BackUP)
-https://hex.flixtronic.top/max/ck.php
+http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:0,G-TV
 http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
 http://10.2.2.10:8088/110/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star-Sports HD 1 (Backup)
+http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF:0,Star-Sports HD2
 http://10.2.2.10:8088/115/tracks-v1/mono.m3u8
 #EXTINF:0,Sony Ten 1
@@ -54,7 +56,7 @@ http://starshare.org:8080/live/Woods1234/Woods1234/435.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA
 http://10.2.2.10:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Backup)
-http://starshare.org:8080/live/Woods1234/Woods1234/198.m3u8
+http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Global)
 http://starshare.org:8080/live/Woods1234/Woods1234/98883.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="BANGLA",BD: JALSHA MOVIES
@@ -80,4 +82,4 @@ http://10.2.2.10:8088/802/tracks-v1a1/mono.m3u8
 #EXTINF:0,NAT GEO 2
 https://starshare.live:443/live/18531853/18531853/98874.ts
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: STAR MOVIE (4K)." group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE (4K).
-http://starshare.org:8080/live/Woods1234/Woods1234/98842.m3u8
+http://172.17.50.112/live/antbd1004/index.m3u8
