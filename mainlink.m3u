@@ -23,41 +23,43 @@ http://10.2.2.10:8088/121/tracks-v1a1/mono.m3u8
 http://10.2.2.10:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Sports Select HD 2
 http://10.2.2.10:8088/124/tracks-v1a1/mono.m3u8
-#EXTINF:0,Independent TV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb8AAABxCAMAAAByWF0wAAAA+VBMVEX39/fqDhSEhoj+/v7+///////pAACChIbxDhT19fUADxGJi42en6Hr7Oxyc3WFiIomJCYFDQ93DxMTDxFJEBLygoT87u7qAAruQkb609T0j5H2rK7uS0/0lZf99vbuU1b3tLb6yMntLzTxcHP85eb3wMH1nJ7rGB3wZmj73N3yfX/sNDj6zs" tvg-name="BD_Independent TV" group-title="BANGLA",Independent TV 
 http://10.2.2.10:8088/201/tracks-v1a1/mono.m3u8
-#EXTINF:0,Deepto TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-name="BD: Deepto" group-title="BANGLA",BD: Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?
-#EXTINF:0,ATN Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAACeVBMVEX////+0AAAXiL6AAEBATX//f/9AAL///70AAABATP/0QH//f4AAAD///z/+//3AAD/7+bmAAAAACoCAi8AABv6//8AACfhAADXNjSenq//zQD///jvAADXAADdbmDXDRMbAAD60w3FzcnOAAAAACQAABcAAB5oUQDTtCPm5u/tpp7z//8AYS" tvg-name="BD: ATN NEWS HD" group-title="BANGLA",BD: ATN Bangla
 http://10.2.2.10:8088/202/tracks-v1a1/mono.m3u8
-#EXTINF:0,ATN News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAACeVBMVEX////+0AAAXiL6AAEBATX//f/9AAL///70AAABATP/0QH//f4AAAD///z/+//3AAD/7+bmAAAAACoCAi8AABv6//8AACfhAADXNjSenq//zQD///jvAADXAADdbmDXDRMbAAD60w3FzcnOAAAAACQAABcAAB5oUQDTtCPm5u/tpp7z//8AYS" tvg-name="BD: ATN NEWS HD" group-title="BANGLA",BD: ATN NEWS HD
 http://10.2.2.10:8088/203/tracks-v1a1/mono.m3u8
-#EXTINF:0,DBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="BD_DBC HD" group-title="BANGLA",DBC HD
 http://10.2.2.10:8088/204/tracks-v1a1/mono.m3u8
-#EXTINF:0,Jamuna TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA",Jamuna TV
 http://10.2.2.10:8088/209/tracks-v1a1/mono.m3u8
-#EXTINF:0,Jamuna TV (Global)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA", Jamuna TV (Global)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=
-#EXTINF:0,Somoy TV (GLOB)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFBcUEhUYFxcYGxcdGhgXFxcaHRsbGhgbGBoaFxobISwkGyApHhoaJTYlKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHjMqJCkyNDI8MjIyMjIyMjIyMjIyMjIwMjI1MjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMv/AABEIALQBGAMBIgACEQEDEQH/x" tvg-name="BD_Somoy TV" group-title="BANGLA", Somoy TV (GLOB)
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
-#EXTINF:0,Ekattor TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=
-#EXTINF:0,Channel 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAO8AAADTCAMAAABeFrRdAAABF1BMVEUAikT////UGB/SAAAAiEEAjETUFBzUEhrxwcLTDxjTAA8AgS8AiD/10tMzl1wAhjzVHSTTAAzXMDb22toAgzXaRkoAgCz++vrdABvsrq/utbb76uvyycrfaWzeYmXvurv88vLmjpD44uLie37gb3LdXWDrqKnjgoTXLjPzzM3pnZ/aSExqro" tvg-name="BD_BOISAKHI HD" group-title="BANGLA", BOISAKHI HD
+http://starshare.org:8080/live/Woods1234/Woods1234/390.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTExIWFhMVGRsbGBYWFxgfHxceGBkXGB4dGh4kHSggGB4mHxcYITMhJSkrLi4uGB8zOD8tNygtLi0BCgoKDg0OGxAQGy0lICYtLS83LS42Ly0tLS0wLS0tKy0tLS0tLS0tLS0vLS0vLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAIIBMQMBIgACEQEDEQH/x" tvg-name="BD_CHANNEL 24 HD" group-title="BANGLA", CHANNEL 24 HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8?nimblesessionid=
-#EXTINF:0,ZEE Bangla HD
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA
 http://10.2.2.10:8088/301/tracks-v1a1/mono.m3u8
-#EXTINF:0,ZEE Bangla HD (Backup)
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Backup)
 http://starshare.org:8080/live/Woods1234/Woods1234/98881.m3u8
-#EXTINF:0,ZEE Bangla HD (Global)
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Global)
 http://starshare.org:8080/live/Woods1234/Woods1234/435.m3u8
-#EXTINF:0,Star Jalsha HD
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA
 http://10.2.2.10:8088/302/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Jalsha HD (Backup)
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Backup)
 http://starshare.org:8080/live/Woods1234/Woods1234/198.m3u8
-#EXTINF:0,Star Jalsha HD (Global)
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Global)
 http://starshare.org:8080/live/Woods1234/Woods1234/98883.m3u8
-#EXTINF:0,Jalsha Movies
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: JALSHA MOVIES (4K)." group-title="BANGLA",BD: JALSHA MOVIES
 http://10.2.2.10:8088/303/tracks-v1a1/mono.m3u8
-#EXTINF:0,Colors Bangla HD
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="BANGLA",BD: COLORS BANGLA
 http://10.2.2.10:8088/304/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Aath
 http://10.2.2.10:8088/306/tracks-v1a1/mono.m3u8
