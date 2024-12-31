@@ -6,7 +6,7 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 #EXTINF:0,T-Sports
 http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:0,T-Sports(BackUP)
-http://bapatv.live:8080/tsports1/tracks-v1a1/mono.m3u8
+https://hex.flixtronic.top/max/ck.php
 #EXTINF:0,G-TV
 http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
@@ -25,6 +25,8 @@ http://10.2.2.10:8088/123/tracks-v1a1/mono.m3u8
 http://10.2.2.10:8088/124/tracks-v1a1/mono.m3u8
 #EXTINF:0,Independent TV 
 http://10.2.2.10:8088/201/tracks-v1a1/mono.m3u8
+#EXTINF:0,Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?
 #EXTINF:0,ATN Bangla
 http://10.2.2.10:8088/202/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATN News
@@ -38,7 +40,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:0,Somoy TV (GLOB)
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:0,Ekattor TV HD
-http://bapatv.live:8080/ekattor/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:0,Channel 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8?nimblesessionid=
 #EXTINF:0,ZEE Bangla HD
