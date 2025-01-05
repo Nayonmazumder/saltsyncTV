@@ -87,6 +87,8 @@ http://xtv.ooo:8080/Opplexasdff/2272200/245898
 http://10.2.2.10:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="BANGLA",BD: COLORS BANGLA
 http://xtv.ooo:8080/Opplexasdff/2272200/245895
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF:0,Sony Aath
 http://10.2.2.10:8088/306/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony HD
