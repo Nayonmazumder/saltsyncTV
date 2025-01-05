@@ -71,7 +71,7 @@ http://starshare.org:8080/live/Woods1234/Woods1234/390.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTExIWFhMVGRsbGBYWFxgfHxceGBkXGB4dGh4kHSggGB4mHxcYITMhJSkrLi4uGB8zOD8tNygtLi0BCgoKDg0OGxAQGy0lICYtLS83LS42Ly0tLS0wLS0tKy0tLS0tLS0tLS0vLS0vLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAIIBMQMBIgACEQEDEQH/x" tvg-name="BD_CHANNEL 24 HD" group-title="BANGLA", CHANNEL 24 HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA
-http://10.2.2.10:8088/301/tracks-v1a1/mono.m3u8
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Backup)
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_bangla&e=.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Global)
