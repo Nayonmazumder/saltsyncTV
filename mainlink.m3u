@@ -8,7 +8,7 @@ http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:0,T-Sports(BackUP)
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:0,T-Sports HD
-http://172.17.50.112/live/antbd1004/index.m3u8
+http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:0,Star-Sports HD 1
 https://baskardo.vip/In_Hin/index.m3u8
 #EXTINF:0,Euro Sports
