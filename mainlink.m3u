@@ -7,12 +7,8 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:0,T-Sports(BackUP)
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:0,T-Sports(JadooBD)
-https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
-#EXTINF:0,G-TV
-http://xtv.ooo:8080/Opplexasdff/2272200/245901
-#EXTINF:-1,Channel 9
-http://xtv.ooo:8080/Opplexasdff/2272200/245902
+#EXTINF:0,T-Sports HD
+http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF:0,Star-Sports HD 1
 https://baskardo.vip/In_Hin/index.m3u8
 #EXTINF:0,Euro Sports
@@ -21,10 +17,8 @@ http://172.16.29.2:8090/hls/eurosportshd.m3u8
 http://172.16.29.2:8090/hls/sonyten5hd.m3u8
 #EXTINF:0,Sony Ten 2
 http://172.16.29.2:8090/hls/sonyten2hd.m3u8
-#EXTINF:0,Star Sports Select HD 1
-https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
-#EXTINF:0,Star Sports Select HD 2
-https://iptvcable.netlify.app/Altogether-007/StarSportsSel2.m3u8
+#EXTINF:0,Star Sports  HD 2
+http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb8AAABxCAMAAAByWF0wAAAA+VBMVEX39/fqDhSEhoj+/v7+///////pAACChIbxDhT19fUADxGJi42en6Hr7Oxyc3WFiIomJCYFDQ93DxMTDxFJEBLygoT87u7qAAruQkb609T0j5H2rK7uS0/0lZf99vbuU1b3tLb6yMntLzTxcHP85eb3wMH1nJ7rGB3wZmj73N3yfX/sNDj6zs" tvg-name="BD_Independent TV" group-title="BANGLA",Independent TV 
 http://xtv.ooo:8080/Opplexasdff/2272200/245916
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-name="BD: Deepto" group-title="BANGLA",BD: Deepto TV
@@ -57,7 +51,7 @@ https://jadoo.iptvbd.xyz/jadoo.php?id=channel_i&e=.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA", Jamuna TV (Global)
 http://xtv.ooo:8080/Opplexasdff/2272200/245917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFBcUEhUYFxcYGxcdGhgXFxcaHRsbGhgbGBoaFxobISwkGyApHhoaJTYlKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHjMqJCkyNDI8MjIyMjIyMjIyMjIyMjIwMjI1MjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMv/AABEIALQBGAMBIgACEQEDEQH/x" tvg-name="BD_Somoy TV" group-title="BANGLA", Somoy TV (GLOB)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFBcUEhUYFxcYGxcdGhgXFxcaHRsbGhgbGBoaFxobISwkGyApHhoaJTYlKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHjMqJCkyNDI8MjIyMjIyMjIyMjIyMjIwMjI1MjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMv/AABEIALQBGAMBIgACEQEDEQH/x" tvg-name="BD_Somoy TV" group-title="BANGLA", Somoy TV
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=
