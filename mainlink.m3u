@@ -92,6 +92,8 @@ https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 #EXTINF:0 Star Movies HD
 http://172.16.29.2:8090/hls/starmovieshd.m3u8
+#EXTINF:0 Star Movies
+http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF:0,NAT GEO 
 https://starshare.live:443/live/18531853/18531853/98874.ts
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="INDIA ENGLISH MOVIES",Sony PiX
