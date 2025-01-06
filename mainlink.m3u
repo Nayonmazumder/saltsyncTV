@@ -88,6 +88,8 @@ https://baskardo.vip/IN_STS/index.m3u8
 https://baskardo.vip/IN_CTVS/index.m3u8
 #EXTINF:0,Zee Cinema HD
 https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
+#EXTINF:0,& Picture HD
+http://172.16.29.2:8090/hls/AndPictureTV.m3u8
 #EXTINF:0,Discovery HD
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 #EXTINF:0 Star Movies HD
