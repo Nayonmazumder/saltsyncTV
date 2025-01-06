@@ -1,34 +1,30 @@
 #EXTM3U
 #EXTINF:0,Live SPORT
-http://103.96.235.18:8080/sports1/index.m3u8
+http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
 #EXTINF:0,Sports 18
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 #EXTINF:0,T-Sports
-http://10.2.2.10:8088/102/tracks-v1a1/mono.m3u8
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:0,T-Sports(BackUP)
-http://172.17.50.112/live/antbd1002/index.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:0,T-Sports(JadooBD)
 https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
 #EXTINF:0,G-TV
-http://10.2.2.10:8088/106/tracks-v1a1/mono.m3u8
+https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 #EXTINF:0,G-TV (Jadu BD)
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:0,Star-Sports HD 1
-http://10.2.2.10:8088/110/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star-Sports HD 1 (Backup)
-http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:0,Star-Sports HD2
-http://10.2.2.10:8088/115/tracks-v1/mono.m3u8
-#EXTINF:0,Sony Ten 1
-http://10.2.2.10:8088/119/tracks-v1a1/mono.m3u8
+https://baskardo.vip/In_Hin/index.m3u8
+#EXTINF:0,Euro Sports
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:0,Sony Ten 5
+http://172.16.29.2:8090/hls/sonyten5hd.m3u8
 #EXTINF:0,Sony Ten 2
-http://10.2.2.10:8088/120/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Ten 3
-http://10.2.2.10:8088/121/tracks-v1a1/mono.m3u8
+http://172.16.29.2:8090/hls/sonyten2hd.m3u8
 #EXTINF:0,Star Sports Select HD 1
-http://10.2.2.10:8088/123/tracks-v1a1/mono.m3u8
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
 #EXTINF:0,Star Sports Select HD 2
-http://10.2.2.10:8088/124/tracks-v1a1/mono.m3u8
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb8AAABxCAMAAAByWF0wAAAA+VBMVEX39/fqDhSEhoj+/v7+///////pAACChIbxDhT19fUADxGJi42en6Hr7Oxyc3WFiIomJCYFDQ93DxMTDxFJEBLygoT87u7qAAruQkb609T0j5H2rK7uS0/0lZf99vbuU1b3tLb6yMntLzTxcHP85eb3wMH1nJ7rGB3wZmj73N3yfX/sNDj6zs" tvg-name="BD_Independent TV" group-title="BANGLA",Independent TV 
 http://10.2.2.10:8088/201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-name="BD: Deepto" group-title="BANGLA",BD: Deepto TV
@@ -40,7 +36,8 @@ http://10.2.2.10:8088/203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="BD_DBC HD" group-title="BANGLA",DBC HD
 http://10.2.2.10:8088/204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA",Jamuna TV
-http://xtv.ooo:8080/Opplexasdff/2272200/245917
+http://172.16.29.2:8090/hls/jamunatv.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg",Banglavision
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
@@ -59,7 +56,7 @@ https://jadoo.iptvbd.xyz/jadoo.php?id=channel_i&e=.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA", Jamuna TV (Global)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=
+http://xtv.ooo:8080/Opplexasdff/2272200/245917
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFBcUEhUYFxcYGxcdGhgXFxcaHRsbGhgbGBoaFxobISwkGyApHhoaJTYlKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHjMqJCkyNDI8MjIyMjIyMjIyMjIyMjIwMjI1MjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMv/AABEIALQBGAMBIgACEQEDEQH/x" tvg-name="BD_Somoy TV" group-title="BANGLA", Somoy TV (GLOB)
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFBcUEhUYFxcYGxcdGhgXFxcaHRsbGhgbGBoaFxobISwkGyApHhoaJTYlKS4wMzMzGiI5PjkyPSwyMzABCwsLEA4QHRISHjMqJCkyNDI8MjIyMjIyMjIyMjIyMjIwMjI1MjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMv/AABEIALQBGAMBIgACEQEDEQH/x" tvg-name="BD_Somoy TV" group-title="BANGLA", Somoy TV (JadooBD)
@@ -71,43 +68,43 @@ http://starshare.org:8080/live/Woods1234/Woods1234/390.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTExIWFhMVGRsbGBYWFxgfHxceGBkXGB4dGh4kHSggGB4mHxcYITMhJSkrLi4uGB8zOD8tNygtLi0BCgoKDg0OGxAQGy0lICYtLS83LS42Ly0tLS0wLS0tKy0tLS0tLS0tLS0vLS0vLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAIIBMQMBIgACEQEDEQH/x" tvg-name="BD_CHANNEL 24 HD" group-title="BANGLA", CHANNEL 24 HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA
-https://la.drmlive.au/tp/zee-zeebangla.m3u8
+http://172.16.29.2:8090/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Backup)
 https://baskardo.vip/IN_ZEBS/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245893
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA
-https://baskardo.vip/IN_JALSHAS/index.m3u8
+http://172.16.29.2:8090/hls/starjalshahd.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Backup)
-http://172.17.50.112/live/antbd1003/index.m3u8
+https://baskardo.vip/IN_JALSHAS/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="BANGLA",BD: STAR JALSHA(Global)
 https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
-http://xtv.ooo:8080/Opplexasdff/2272200/245898
+
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="BANGLA",BD: JALSHA MOVIES
-https://baskardo.vip/IN_JALSHAMOVIES/index.m3u8
+http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="BANGLA",BD: COLORS BANGLA
 http://xtv.ooo:8080/Opplexasdff/2272200/245895
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF:0,Sony Aath
-http://10.2.2.10:8088/306/tracks-v1a1/mono.m3u8
+http://172.16.29.2:8090/hls/sonyatth.m3u8
 #EXTINF:0,Sony HD
 http://xtv.ooo:8080/Opplexasdff/2272200/221251
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="INDIA ENTERTAINMENT",IN: SONY SAB (4K).
-http://xtv.ooo:8080/Opplexasdff/2272200/221256
+https://baskardo.vip/IN_SBTVS/index.m3u8
 #EXTINF:0,Star Plus HD
-http://10.2.2.10:8088/401/tracks-v1a1/mono.m3u8
+https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF:0,Colors HD
-http://10.2.2.10:8088/405/tracks-v1a1/mono.m3u8
+https://baskardo.vip/IN_CTVS/index.m3u8
 #EXTINF:0,Zee Cinema HD
-http://10.2.2.10:8088/406/tracks-v1a1/mono.m3u8
+https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 #EXTINF:0,Discovery HD
-http://10.2.2.10:8088/801/tracks-v1a1/mono.m3u8
-#EXTINF:0,NAT GEO
-http://10.2.2.10:8088/802/tracks-v1a1/mono.m3u8
-#EXTINF:0,NAT GEO 2
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+#EXTINF:0 Star Movies HD
+http://172.16.29.2:8090/hls/starmovieshd.m3u8
+#EXTINF:0,NAT GEO 
 https://starshare.live:443/live/18531853/18531853/98874.ts
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-name="IN: STAR MOVIE (4K)." group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE (4K).
-http://172.17.50.112/live/antbd1004/index.m3u8
-#EXTINF:0,MACAU Lotus (JadooBD)
-https://jadoo.iptvbd.xyz/jadoo.php?id=macau_lotus&e=.m3u8
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="INDIA ENGLISH MOVIES",Sony PiX
+http://172.16.29.2:8090/hls/sonypixhd.m3u8
+#EXTINF:0, Star Life HD
+http://172.16.29.2:8090/hls/StarLifeHD.m3u8
