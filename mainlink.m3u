@@ -119,8 +119,7 @@ http://172.16.29.2:8090/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Backup)
 https://baskardo.vip/IN_ZEBS/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="BANGLA",BD: ZEE BANGLA (Global)
-http://filex.tv:8080/989898/989898/495838
-http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=9972&deviceMac=00:1A:79:8C:31:EF
+http://krooztv.live:80/nick/nick/693972
 http://xtv.ooo:8080/Opplexasdff/2272200/245893
 https://la.drmlive.au/tp/zee-zeebangla.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="WI-FI",STAR JALSHA HD (Cloudfront)
