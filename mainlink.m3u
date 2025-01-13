@@ -178,5 +178,4 @@ http://172.16.29.2:8090/hls/sonypixhd.m3u8
 http://172.16.29.2:8090/hls/StarLifeHD.m3u8
 #EXTINF:0, Nick HD+
 http://172.16.29.2:8090/hls/nicktvhdplus.m3u8
-#EXTINF:0, Zee Bangla JD
-https://play.noatube.com/jd/1live.php/zee_bangla.m3u8
+
