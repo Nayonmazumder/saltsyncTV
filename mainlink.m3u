@@ -34,9 +34,9 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:0,T-Sports(BackUP)
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:0,T-Sports HD
-http://172.17.50.112/live/fifa2022/index.m3u8
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star-Sports HD 1
-http://172.17.50.112/live/antbd1001/index.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png" group-title="WI-FI",EURO SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/ts
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="WI-FI",STAR SPORTS 2 HD
@@ -105,7 +105,20 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w/ts
 #EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="WI-FI",SOMOY TV HD(Global)
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
+
+#EXTINF:-1 ,Jamuna TV(YT)
+https://www.youtube.com/@JamunaTVbd/live
+
+#EXTINF:-1 ,Somoy TV(YT)
+https://www.youtube.com/@somoynews360/live
+#EXTINF:-1 ,Ekhon TV(YT)
+https://www.youtube.com/@ekhontv/live
+#EXTINF:-1 ,Ekattor(YT)
+https://www.youtube.com/@EkattorTelevision/live
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
+http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxcSOqy-nS8bydywKL2a7hiU/m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
