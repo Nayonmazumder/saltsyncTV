@@ -27,8 +27,10 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/ts
 #EXTINF:0,Sports 18
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="WI-FI",T SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 http://atg100.xyz:80/UL33K17/SYC4T9D/510487
 #EXTINF:0,T-Sports(BackUP)
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:0,T-Sports HD
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
@@ -43,7 +45,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/ts
 #EXTINF:-1 xui-id="328" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://172.16.29.34:80/images/69582a69b467ef2333210bf39a4574fd.png" group-title="WI-FI",SONY TEN 1 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8/ts
 #EXTINF:-1 xui-id="330" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://172.16.29.34:80/images/29de51f924dcb840492593065333c5ef.png" group-title="WI-FI",SONY TEN 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/ts
+http://172.16.29.:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/ts
 #EXTINF:-1 xui-id="332" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="http://172.16.29.34:80/images/f960e620caa273f1fefa805bf847b4ea.png" group-title="WI-FI",SONY TEN 5 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw/ts
 #EXTINF:-1 xui-id="336" tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="http://172.16.29.34:80/images/c959c1df1b5e43dc74c3476d335d83d9.png" group-title="WI-FI",SPORTS 18 HD
@@ -96,14 +98,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxcSOqy-nS8bydywKL2a7hiU/ts
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="WI-FI",SOMOY TV HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w/ts
+http:/34/172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0DYjVid5WbW8UtDN3-AE6w/ts
 #EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="WI-FI",SOMOY TV HD(Global)
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxTJQEg79dsQdLbY-Sri8JUg/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv(Global)
-http://atg100.xyz:80/UL33K17/SYC4T9D/809039
+http://172.16.29.2:8090/hls/ekattortv.m3u8
 #EXTINF:-1,NAGORIK TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/ts
 #EXTINF:-1,SATV HD
