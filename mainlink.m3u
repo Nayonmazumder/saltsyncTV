@@ -59,7 +59,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/ts
 #EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png" group-title="BANGLA",NEWS24 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw/ts
 #EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png" group-title="BANGLA",NEWS24 HD(Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245903
+http://xtv.ooo:8080/sami12/827272/245903
 #EXTINF:-1 xui-id="257" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="http://172.16.29.34:80/images/b61ac5df359816c92ad4d22ccf99fb9a.png" group-title="BANGLA",NTV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0/ts
 #EXTINF:-1 xui-id="233" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="http://172.16.29.34:80/images/29650b4644d2432208b187ccd72b1606.png" group-title="BANGLA",GAZI TV HD
@@ -71,11 +71,11 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/72262
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="BANGLA",INDEPENDENT TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg/ts
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="BANGLA",INDEPENDENT TV (Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245916
+http://xtv.ooo:8080/sami12/827272/245916
 #EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="BANGLA",ATN NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/ts
 #EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="BANGLA",ATN NEWS (Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245905
+http://xtv.ooo:8080/sami12/827272/245905
 #EXTINF:-1 xui-id="204" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="http://172.16.29.34:80/images/fdc864c948ed26cfb28123b32ee080b6.png" group-title="BANGLA",CHANNEL I HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/ts
 #EXTINF:-1 xui-id="208" tvg-id="CHAN24" tvg-name="CHANNEL24 HD" tvg-logo="http://172.16.29.34:80/images/685afab95090a16e6bb9a5d949f100f8.png" group-title="BANGLA",CHANNEL24 HD
@@ -85,17 +85,17 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1gT7R-Dng6vTzdSUSVzJSo/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD (Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245914
+http://xtv.ooo:8080/sami12/827272/245914
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-name="BD: Deepto" group-title="BANGLA",BD: Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA",Jamuna TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA",Jamuna TV(BackUP)
-http://xtv.ooo:8080/Opplexasdff/2272200/245917
+http://xtv.ooo:8080/sami12/827272/245917
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg" group-title="BANGLA",Banglavision
 http://172.16.29.226:8090/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BD-LOC: Asian tv
-http://xtv.ooo:8080/Opplexasdff/2272200/245908
+http://xtv.ooo:8080/sami12/827272/245908
 #EXTINF:-1group-title="BANGLA" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
 http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxcSOqy-nS8bydywKL2a7hiU/ts
@@ -107,7 +107,7 @@ https://www.youtube.com/watch?v=WRqBRITnPjg
 http://172.16.29.2:8090/hls/ekattortv.m3u8
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxTJQEg79dsQdLbY-Sri8JUg/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv(Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/245915
+http://xtv.ooo:8080/sami12/827272/245915
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",NAGORIK TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",SATV HD
@@ -123,7 +123,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA
 http://172.16.29.2:8090/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
-http://xtv.ooo:8080/Opplexasdff/2272200/245893
+http://xtv.ooo:8080/sami12/827272/245893
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Global)
 http://humsab.xyz/IN_ZEBS/index.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
@@ -132,17 +132,17 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 http://172.16.29.2:8090/hls/starjalshahd.m3u8
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
-http://xtv.ooo:8080/Opplexasdff/2272200/245898
+http://xtv.ooo:8080/sami12/827272/245898
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="INDIAN-BANGLA", SUN Bangla
-http://xtv.ooo:8080/Opplexasdff/2272200/245906
+http://xtv.ooo:8080/sami12/827272/245906
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="INDIAN-BANGLA",BD: JALSHA MOVIES
 http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="INDIAN-BANGLA",BD: COLORS BANGLA
-http://xtv.ooo:8080/Opplexasdff/2272200/245895
+http://xtv.ooo:8080/sami12/827272/245895
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="INDIAN-BANGLA",R.TV BANGLA NEWS
@@ -154,13 +154,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk/ts
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4/ts
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD (Global)
-http://xtv.ooo:8080/Opplexasdff/2272200/109948
+http://xtv.ooo:8080/sami12/827272/109948
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",IN: SONY SAB (4K).
-http://xtv.ooo:8080/Opplexasdff/2272200/109953
+http://xtv.ooo:8080/sami12/827272/109953
 #EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SUB TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="HINDI",SONY PAL
-http://xtv.ooo:8080/Opplexasdff/2272200/104192
+http://xtv.ooo:8080/sami12/827272/104192
 #EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://172.16.29.2:8090/assets/images/discoveryhd.png" group-title="DOCUMENTORY",Discovery HD
