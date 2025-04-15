@@ -5,6 +5,7 @@
 http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
 #EXTINF:-1 xui-id="413" tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="http://172.16.29.34:80/images/3e24db626e8ad785de0c4803bf445d72.png" group-title="SPORTS",WILLOW CRICKET
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/ts
+https://www.tbn24.com/api/video/4026_0.m3u8
 #EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="NEWS",ARY NEWS ASIA
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxYbzsruS276vvTMcdgfGJ7w/ts
 #EXTINF:-1 xui-id="464" tvg-id=""  tvg-logo="http://172.16.29.28/assets/images/aljazeranews.png" group-title="NEWS", AlJazeera HD 
@@ -123,6 +124,9 @@ http://xtv.ooo:8080/sami12/827272/245915
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",SATV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/ts
+#EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
+http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg",Ekushey Tv
@@ -135,6 +139,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
 http://tv.bdiptv.store/live/restream/restream/14.m3u8
 http://172.16.29.2:8090/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 http://xtv.ooo:8080/sami12/827272/245893
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Global)
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
@@ -144,22 +149,28 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
 http://tv.bdiptv.store/live/restream/restream/52.m3u8
 http://172.16.29.2:8090/hls/starjalshahd.m3u8
-http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
-http://xtv.ooo:8080/sami12/827272/245898
+http://kst.moonplex.net:8080/CH3/index.m3u8
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/534
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="INDIAN-BANGLA", SUN Bangla
-http://xtv.ooo:8080/sami12/827272/245906
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159619
+
+#EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",Enter 10 Bangla
+http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="INDIAN-BANGLA",BD: JALSHA MOVIES
 http://tv.bdiptv.store/live/restream/restream/81.m3u8
 http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="INDIAN-BANGLA",BD: COLORS BANGLA
 http://tv.bdiptv.store/live/restream/restream/91.m3u8
+http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/532
 http://xtv.ooo:8080/sami12/827272/245895
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
-https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="INDIAN-BANGLA",R.TV BANGLA NEWS
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4rfRWhw54IpB93bbx7_19Y/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="INDIAN-BANGLA",Sony Aath
@@ -202,6 +213,9 @@ http://tv.bdiptv.store/live/restream/restream/95.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Sony PiX
 http://tv.bdiptv.store/live/restream/restream/24.m3u8
 http://172.16.29.2:8090/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
+https://www.tbn24.com/api/video/4029_0.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/andflix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",&FlixHD
 http://172.16.29.2:8090/hls/andflixhd.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/Starlife.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",StarLifeHD
