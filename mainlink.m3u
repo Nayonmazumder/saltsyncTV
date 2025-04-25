@@ -68,7 +68,6 @@ http://xtv.ooo:8080/sami12/827272/245903
 #EXTINF:-1 xui-id="257" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="http://172.16.29.34:80/images/b61ac5df359816c92ad4d22ccf99fb9a.png" group-title="BANGLA",NTV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0/ts
 #EXTINF:-1 xui-id="233" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="http://172.16.29.34:80/images/29650b4644d2432208b187ccd72b1606.png" group-title="BANGLA",GAZI TV HD
-http://tv.bdiptv.store/live/restream/restream/87.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/ts
 #EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="BANGLA",ATN BANGLA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/ts
@@ -123,8 +122,11 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",SATV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/ts
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
-http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk/ts
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="http://172.16.29.34:80/images/b6069fe530432541f89118683c4150f4.png" group-title="BANGLA",DEEPTO TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg",Ekushey Tv
@@ -134,8 +136,8 @@ https://mytvINDIAN-bangla.com/0.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",Zee Bangla HD (cloudfront)
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA
-http://kst.moonplex.net:8080/CH4/index.m3u8
 http://172.16.29.2:8090/hls/zeebanglahd.m3u8
+http://kst.moonplex.net:8080/CH4/index.m3u8
 http://103.163.247.39/local_out/zeebanglahd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -151,7 +153,7 @@ http://172.16.29.2:8090/hls/starjalshahd.m3u8
 http://kst.moonplex.net:8080/CH3/index.m3u8
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
-http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/534
+http://xtv.ooo:8080/sami12/827272/245898
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="INDIAN-BANGLA", SUN Bangla
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
 http://www.luckonline.eu:80/live/restream234509023/5667883dhlkths89/3528.m3u8
@@ -219,6 +221,12 @@ http://xtv.ooo:8080/sami12/827272/167551
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/IN62T9" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",Sony YAY 
 http://xtv.ooo:8080/sami12/827272/26187
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/IzBVVO" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",HUM TV
-http://xtv.ooo:8080/sami12/827272/388635
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/iM0EPs" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",HUM Masala
 http://xtv.ooo:8080/sami12/827272/388633
+#EXTINF:-1 xui-id="377" tvg-id="" tvg-name="BBC WORLD" tvg-logo="http://172.16.29.34:80/images/c5151865a8b08fadc43eeb3177b30613.png" group-title="NEWS",BBC WORLD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0HmZbyPChrarr0v1zTcBOA/ts
+#EXTINF:-1 xui-id="378" tvg-id="CNNUKMC" tvg-name="CNN INTERNATIONAL" tvg-logo="http://172.16.29.34:80/images/e37555ecf82cd36639ea5dbe27d782b7.png" group-title="NEWS",CNN INTERNATIONAL
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxlFmkhEoShP524f4j6nSI0/ts
+#EXTINF:-1 xui-id="497" tvg-id="MTVIND" tvg-name="MTV INDIA" tvg-logo="http://fanc.tmsimg.com/assets/s10986_ll_h3_aa.png" group-title="HINDI",MTV INDIA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/ts
