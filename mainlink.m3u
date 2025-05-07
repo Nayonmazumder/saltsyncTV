@@ -14,6 +14,9 @@ http://172.16.29.226:8090/hls/AlJazeeraNews.m3u8
 #EXTINF:-1 xui-id="464" tvg-id=""  tvg-logo="http://172.16.29.28/assets/images/dwnews.png" group-title="NEWS", DW News
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzjTq75zoOSPsOGM5Mg9--s/ts
 http://172.16.29.226:8090/hls/DWNewsEnglish.m3u8
+
+#EXTINF:-1 xui-id="464" tvg-id=""  tvg-logo="https://news.sky.com/resources/sky-news-logo.svg" group-title="NEWS", DW News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720.m3u8
 #EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="MOVIES",AXN HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxZywcf5vBuSC7fOB0-85eN0/ts
 #EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="SPORTS",BEIN  SPORTS 2 ENG
