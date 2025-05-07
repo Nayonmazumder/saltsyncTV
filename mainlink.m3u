@@ -113,7 +113,6 @@ http://172.16.29.226:8090/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BD-LOC: Asian tv
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" group-title="BANGLA" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
-https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxcSOqy-nS8bydywKL2a7hiU/ts
 http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 http://tv.bdiptv.store/live/restream/restream/85.m3u8
@@ -218,7 +217,10 @@ http://172.16.29.2:8090/hls/AndPictureTV.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Sony PiX
 http://172.16.29.2:8090/hls/sonypixhd.m3u8
 http://tv.bdiptv.store/live/restream/restream/24.m3u8
-
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY/ts
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies Select HD 
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU/ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
 https://www.tbn24.com/api/video/4029_0.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/andflix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",&FlixHD
