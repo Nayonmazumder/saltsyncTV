@@ -254,3 +254,5 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://feeds.intoday.in/aajtak/api/at2/master.m3u8
 #EXTINF:-1 xui-id="497" tvg-id="MTVIND" tvg-name="MTV INDIA" tvg-logo="http://fanc.tmsimg.com/assets/s10986_ll_h3_aa.png" group-title="HINDI",MTV INDIA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/ts
+#EXTINF:-1 xui-id="497" tvg-id="MTVIND" tvg-name="MTV INDIA" tvg-logo="https://is.gd/HqV2cr" group-title="NEWS",News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18.m3u8
