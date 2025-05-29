@@ -1,15 +1,28 @@
 import os
 
 def generate_m3u8_entry(channel_name, stream_url, logo_url, tvg_id="custom-id", tvg_group="NEWS"):
-    entry = (
+    return (
         f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{channel_name}" tvg-logo="{logo_url}" group-title="{tvg_group}",{channel_name}\n'
         f"{stream_url}\n"
     )
-    return entry
+
+def ensure_newline_before_append(filepath):
+    """Ensures that the file ends with a newline before appending."""
+    with open(filepath, "rb+") as f:
+        f.seek(-1, os.SEEK_END)
+        last_char = f.read(1)
+        if last_char != b'\n':
+            f.write(b'\n')
 
 def main():
     output_file = "output.m3u8"
-    mode = "a" if os.path.exists(output_file) else "w"
+    file_exists = os.path.exists(output_file)
+
+    if file_exists:
+        ensure_newline_before_append(output_file)
+        mode = "a"
+    else:
+        mode = "w"
 
     with open(output_file, mode) as f:
         print("Enter channel details (type 'done' as Channel Name to finish):\n")
