@@ -49,7 +49,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/ts
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports(BackUP)
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+http://116.204.149.16/t_sports/index.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
