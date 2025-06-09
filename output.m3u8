@@ -174,6 +174,7 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
+http://103.175.242.10:8080/starjalsha/index.m3u8
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
 http://tv.bdiptv.store:80/live/restream/restreamz/52.m3u8
