@@ -167,6 +167,7 @@ http://103.163.247.39/local_out/zeebanglahd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
 http://stream247.live:8080/zeebangla/index.m3u8
 http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
+https://live.drmlive-02.workers.dev/zee/9z5383484.m3u8
 http://xtv.ooo:8080/sami12/827272/245893
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Global)
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
