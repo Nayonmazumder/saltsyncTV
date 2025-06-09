@@ -280,3 +280,5 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-id="1000984" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="HINDI", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_list/1170x658withlog1269578414.png" group-title="HINDI", &Pictures
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
