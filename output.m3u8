@@ -264,6 +264,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzp7OSZQJzZcZLRrRYRy28k/m3u8
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8
 #EXTINF:-1 xui-id="378" tvg-id="CNNUKMC" tvg-name="CNN INTERNATIONAL" tvg-logo="https://is.gd/Hk2cWR" group-title="NEWS",ZEE 24 Ghanta
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU/m3u8
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_list/zee24ghanta1170x658withlogoca0f73a663df46adb7735484471050f2.png" group-title="NEWS", Zee 24 Ghanta (Global)
+https://live.drmlive-02.workers.dev/zee/24ghantatv.m3u8
 #EXTINF:-1 xui-id="378" tvg-id="CNNUKMC" tvg-name="CNN INTERNATIONAL" tvg-logo="https://is.gd/yYrWlc" group-title="NEWS",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 #EXTINF:-1 xui-id="378" tvg-id="CNNUKMC" tvg-name="CNN INTERNATIONAL" tvg-logo="https://seekvectors.com/post/indiatoday-logo" group-title="NEWS",INDIA TODAY
