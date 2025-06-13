@@ -87,7 +87,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/ts
 #EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="BANGLA",ATN BANGLA
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4XcHuahYnOSqNLrioPHoVI/ts
 #EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="BANGLA",ATN BANGLA(Global)
-http://atg100.xyz:80/UL33K17/SYC4T9D/72262
+https://allinonereborn.com/opplex.m3u8?id=246010
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="BANGLA",INDEPENDENT TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg/ts
 #EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="BANGLA",INDEPENDENT TV (Global)
@@ -204,12 +204,14 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4/ts
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD (Global)
 http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",IN: SONY SAB (4K).
-http://xplatinmedia.com:8080/Bmatt4133/ouux3dBoi63z9yQyfbdUi5qcn/53332
-#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SUB TV HD
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
+https://allinonereborn.com/opplex.m3u8?id=221256
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SONY SUB HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="HINDI",SONY PAL
-http://xplatinmedia.com:8080/Bmatt4133/ouux3dBoi63z9yQyfbdUi5qcn/53335
+https://allinonereborn.com/opplex.m3u8?id=104192
+#EXTINF:-1 group-title="HINDI",SONY KAL
+http://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/ts
 
