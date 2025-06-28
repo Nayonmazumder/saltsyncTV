@@ -185,10 +185,10 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 http://103.175.242.10:8080/starjalsha/index.m3u8
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
-http://tv.bdiptv.store:80/live/restream/restreamz/52.m3u8
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98883.m3u8
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
-https://allinonereborn.fun/opplex1991/index.php?id=245898
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/23218.m3u8
 http://stream247.live:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="INDIAN-BANGLA", SUN Bangla
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
@@ -198,9 +198,9 @@ http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="INDIAN-BANGLA",BD: JALSHA MOVIES
-http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98884.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="INDIAN-BANGLA",BD: COLORS BANGLA
-http://stvlive.net:8080/colorsbangla/tracks-v1a1/mono.m3u8
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98882.m3u8
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="INDIAN-BANGLA",R.TV BANGLA NEWS
