@@ -182,10 +182,9 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
-http://103.175.242.10:8080/starjalsha/index.m3u8
-http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=58155
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98883.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/23218.m3u8
@@ -194,8 +193,8 @@ http://stream247.live:8080/starjalsha/index.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
 
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",Enter 10 Bangla
-http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="INDIAN-BANGLA",BD: JALSHA MOVIES
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98884.m3u8
@@ -213,13 +212,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7keUoM9IsfncKh-TVkb5zk/ts
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5cc-JzyUsEkIbufeH14TB4/ts
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD (Global)
-https://allinonereborn.fun/opplex1991/index.php?id=221251
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/224.m3u8
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
-https://allinonereborn.fun/opplex1991/index.php?id=221256
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98853.m3u8
 #EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SONY SUB HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="HINDI",SONY PAL
-https://allinonereborn.fun/opplex1991/index.php?id=104192
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/6627.m3u8
 #EXTINF:-1 group-title="HINDI",SONY KAL
 http://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
@@ -228,13 +227,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://172.16.29.2:8090/assets/images/discoveryhd.png" group-title="DOCUMENTORY",Discovery HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ae4cffhV9yAjOyISj2XTE/ts
 #EXTINF:-1 tvg-id="309" tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png" group-title="DOCUMENTORY",Discovery (Backup)
-https://allinonereborn.fun/opplex1991/index.php?id=206287
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="DOCUMENTORY",TLC HD 
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://172.16.29.34:80/images/779081c0a7fb33f09f91fa9639bf3298.png" group-title="DOCUMENTORY",NAT GEO HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo/ts
 #EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="DOCUMENTORY",Nat GEO (Backup)
-https://allinonereborn.fun/opplex1991/index.php?id=383183
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/7342.m3u8
 #EXTINF:-1 tvg-id="NGWNL" tvg-name="NAT GEO WILD HD" tvg-logo="http://172.16.29.34:80/images/32af5340b8b18b721c5fed3486d92592.png" group-title="DOCUMENTORY",NAT GEO WILD HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss/ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://is.gd/Wkls3U" group-title="DOCUMENTORY",HISTORY TV18 HD
@@ -253,7 +252,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY/ts
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies Select HD 
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU/ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-https://www.tbn24.com/api/video/4029_0.m3u8
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98859.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/andflix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",&FlixHD
 http://172.16.29.2:8090/hls/andflixhd.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/Starlife.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",StarLifeHD
@@ -261,7 +260,7 @@ http://172.16.29.2:8090/hls/StarLifeHD.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/nicktv.png" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",NickHD+
 http://172.16.29.2:8090/hls/nicktvhdplus.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/N39fsV" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",Disney HD 
-http://xplatinmedia.com:8080/Bmatt4133/ouux3dBoi63z9yQyfbdUi5qcn/53436
+http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/20925.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/IN62T9" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",Sony YAY 
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/204.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/IzBVVO" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",HUM TV
