@@ -51,8 +51,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports(BackUP)
 http://10.10.20.6/T-Sports/index.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD
-https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png" group-title="SPORTS",EURO SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/ts
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 1 HD
