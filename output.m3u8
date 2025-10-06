@@ -51,12 +51,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports(BackUP)
 http://10.10.20.6/T-Sports/index.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png" group-title="SPORTS",EURO SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/ts
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 1 HD
-https://rex-streaming.vercel.app/api/x/167575.m3u8
+http://103.175.242.10:8080/starsports1/index.m3u8
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 2 HD
+http://103.175.242.10:8080/starsports1/index.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ/ts
 #EXTINF:-1 xui-id="375" tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="SPORTS",TEN SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/ts
@@ -111,6 +112,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/master.m3u8
 #EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="http://172.16.29.34:80/images/7098e69fb209aa6ac0111bdb3e355dee.png" group-title="BANGLA",CHANNEL9 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1gT7R-Dng6vTzdSUSVzJSo/ts
+#EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="http://172.16.29.34:80/images/7098e69fb209aa6ac0111bdb3e355dee.png" group-title="BANGLA",CHANNEL9 HD(Global)
+http://stvlive.net:8080/channel9/index.m3u8
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD (Global)
@@ -138,6 +141,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BD-LOC: Asian tv
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" group-title="BANGLA" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
+http://stvlive.net:8080/ekhon/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" group-title="BANGLA" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV (Global)
 https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
@@ -154,6 +158,8 @@ http://103.73.106.86:3255/ekattor_nk/index.m3u8
 http://38.96.178.201/live/Ekattor/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",NAGORIK TV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-Vxxf3h4X2PPQCxvawMhr6stNo/ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",NAGORIK TV HD(Global)
+http://stvlive.net:8080/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="#" tvg-name="BD:Ekattor tv" group-title="BANGLA",SATV HD
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/ts
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
@@ -171,7 +177,7 @@ https://mytvINDIAN-bangla.com/0.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",Zee Bangla HD (cloudfront)
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA
-http://kst.moonplex.net:8080/CH4/index.m3u8
+http://103.175.242.10:8080/zeebangla/index.m3u8
 https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 http://103.73.106.86:3255/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
