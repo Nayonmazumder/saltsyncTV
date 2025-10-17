@@ -10,7 +10,8 @@ https://cdn1.discoveryftp.net/Movies/Hindi/2025/The%20Diplomat/The.Diplomat.2025
 # TV Channels
 
 #EXTM3U
-
+#EXTINF:0 #EXTINF:-1 xui-id="001" tvg-id="" tvg-name="BTV" tvg-logo="http://stream247.live/assets/images/btv.png" group-title="BANGLA",BTV 
+http://103.175.242.10:8080/btv/index.m3u8
 #EXTINF:0,Live SPORT
 #https://toffe.fazle-rabby.workers.dev/https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
@@ -136,7 +137,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="BD_Jamuna TV" group-title="BANGLA",Jamuna TV(BackUP)
 http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg" group-title="BANGLA",Banglavision
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+http://stvlive.net:8080/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLA",BD-LOC: Asian tv
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/ts
 #EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" group-title="BANGLA" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
