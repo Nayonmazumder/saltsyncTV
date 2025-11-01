@@ -43,10 +43,10 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw/ts
 #EXTINF:-1 xui-id="469" tvg-id="" tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS",SUPER SPORTS CRICKET HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/ts
-#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="SPORTS",TNT SPORTS 2 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8/ts
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="SPORTS",A Sports
+http://66.102.120.18:8000/play/a032
 #EXTINF:-1 xui-id="443" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="http://172.16.29.34:80/images/418ee8f3ffc10df5e363d4b743b52d50.png" group-title="SPORTS",PTV SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/ts
+http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports(BackUP)
@@ -56,11 +56,11 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD (ICC)
 http://10.16.100.213:8080/hls/tsports.m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png" group-title="SPORTS",EURO SPORTS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/ts
+http://66.102.120.18:8000/play/a01g
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 1 HD
-http://103.175.242.10:8080/starsports1/index.m3u8
+http://87.255.35.150:18891
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 2 HD
-http://103.175.242.10:8080/starsports1/index.m3u8
+http://87.255.35.150:18892
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ/ts
 #EXTINF:-1 xui-id="375" tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://172.16.29.34:80/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="SPORTS",TEN SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/ts
@@ -69,19 +69,17 @@ http://stvlive.net:8080/sonyten1/index.m3u8
 http://103.182.170.32:8888/play/a04j
 #EXTINF:-1 xui-id="328" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://172.16.29.34:80/images/69582a69b467ef2333210bf39a4574fd.png" group-title="SPORTS",SONY TEN 1 HD
 http://103.182.170.32:8888/play/a04j
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8/ts
+http://66.102.120.18:8000/play/a002
 #EXTINF:-1 xui-id="330" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://172.16.29.34:80/images/29de51f924dcb840492593065333c5ef.png" group-title="SPORTS",SONY TEN 2 HD
 http://103.182.170.32:8888/play/a03p
-http://172.16.29.:80/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/ts
+http://66.102.120.18:8000/play/a01y
 #EXTINF:-1 xui-id="332" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="http://172.16.29.34:80/images/f960e620caa273f1fefa805bf847b4ea.png" group-title="SPORTS",SONY TEN 5 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw/ts
-#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="http://172.16.29.34:80/images/c959c1df1b5e43dc74c3476d335d83d9.png" group-title="SPORTS",SPORTS 18 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo/ts
-#EXTINF:-1 xui-id="350" tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.34:80/images/d17c550e4e11abf5c74a2baf3c9041a8.png" group-title="SPORTS",STAR SPORTS 3
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/ts
+http://66.102.120.18:8000/play/a010
+
+#EXTINF:-1 xui-id="350" tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.34:80/images/d17c550e4e11abf5c74a2baf3c9041a8.png" group-title="SPORTS",STAR SPORTS Hindi
+http://87.255.35.150:18882
 #EXTINF:-1 xui-id="352" tvg-id="" tvg-name="STAR SPORTS SL 1 HD" tvg-logo="http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png" group-title="SPORTS",STAR SPORTS SL 1 HD
-http://tv.bdiptv.store/live/restream/restream/88.m3u8
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/ts
+http://87.255.35.150:18893
 #EXTINF:-1 xui-id="354" tvg-id="" tvg-name="STAR SPORTS SL 2 HD" tvg-logo="http://172.16.29.34:80/images/6b8007c8a58db72c538a2026e3ebe77b.png" group-title="SPORTS",STAR SPORTS SL 2 HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/ts
 #EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png" group-title="BANGLA",NEWS24 HD
@@ -194,7 +192,6 @@ https://xfireflix.fun/file/opplex/playlist.m3u?id=245893&e=.m3u8
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/435.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
 http://87.255.35.150:18237/
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
 http://103.182.170.32:8888/play/a046
 http://stvlive.net:8080/starjalsha/index.m3u8
@@ -203,10 +200,9 @@ http://filex.tv:8080/live/uk1212/123456/499653.ts
 http://10.10.20.6/Star-Jalsha/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
 https://xfireflix.fun/file/opplex/playlist.m3u?id=245898&e=.m3u8
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/23218.m3u8
 http://stream247.live:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="INDIAN-BANGLA", SUN Bangla
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -215,7 +211,7 @@ http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-logo="https://shorturl.at/4UJvn" tvg-name="BD: JALSHA MOVIES (4K)." group-title="INDIAN-BANGLA",BD: JALSHA MOVIES
 http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98884.m3u8
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" tvg-name="BD: COLORS BANGLA (4K)." group-title="INDIAN-BANGLA",BD: COLORS BANGLA
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98882.m3u8
+http://87.255.35.150:18236
 #EXTINF:-1 group-title="INDIAN-BANGLA" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" ,Zee bangla Cinema
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 xui-id="403" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="http://172.16.29.34:80/images/67c2ebad2aa9abce6f4d9cd7fc0f13f5.png" group-title="INDIAN-BANGLA",R.TV BANGLA NEWS
@@ -232,9 +228,9 @@ http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
 http://103.182.170.32:8888/play/a03r
 #EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SONY SUB HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA48SQVRIhLk9q5F2GVkdyi8/ts
+http://66.102.120.18:8000/play/a00d
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="HINDI",SONY PAL
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/6627.m3u8
+http://87.255.35.150:18887
 #EXTINF:-1 group-title="HINDI",SONY KAL
 http://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
@@ -260,7 +256,7 @@ https://allinonereborn.fun/opplex1991/index.php?id=206282
 #EXTINF:-1  tvg-id="starmovieshd.in" tvg-logo="https://is.gd/Itq6cU" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",MN+ HD
 http://172.16.29.34:80/play/-f4y0ulrz6bWYAIPS-WEf6DfHmbbO5-RkR5fvfm4c9U/ts
 #EXTINF:-1  tvg-id="starmovieshd.in" tvg-logo="https://is.gd/xZCCFH" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES", & Picture HD 
-http://172.16.29.2:8090/hls/AndPictureTV.m3u8
+http://66.102.120.18:8000/play/a01t
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Sony PiX
 http://103.182.170.32:8888/play/a027
 http://tv.bdiptv.store/live/restream/restream/24.m3u8
@@ -271,7 +267,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1ekp3Fy7D94wMxtS9g2lBY/ts
 http://103.182.170.32:8888/play/a028
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-ubsOEwtB1tgTJisY1MYWU/ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-http://starshare.org:8080/live/Safwan@Sir/Safwan@Sir@/98859.m3u8
+http://66.102.120.18:8000/play/a01s
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/andflix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",&FlixHD
 http://103.182.170.32:8888/play/a02a
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/Starlife.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",StarLifeHD
