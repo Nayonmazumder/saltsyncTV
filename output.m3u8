@@ -52,28 +52,26 @@ http://66.102.120.18:8000/play/a010
 http://87.255.35.150:18882
 #EXTINF:-1 xui-id="352" tvg-id="" tvg-name="STAR SPORTS SL 1 HD" tvg-logo="http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png" group-title="SPORTS",STAR SPORTS SL 1 HD
 http://87.255.35.150:18893
-#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png" group-title="BANGLA",NEWS24 HD(Global)
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="BANGLA",NEWS24 HD(Global)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="257" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="http://172.16.29.34:80/images/b61ac5df359816c92ad4d22ccf99fb9a.png" group-title="BANGLA",NTV
+#EXTINF:-1 xui-id="257" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLA",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="http://172.16.29.34:80/images/29650b4644d2432208b187ccd72b1606.png" group-title="BANGLA",GAZI TV HD
+#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_GTV_%28Bangladesh%29.svg" group-title="BANGLA",GAZI TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="http://172.16.29.34:80/images/caacb3e64c6291d055b5d2e85fc3f16b.png" group-title="BANGLA",ATN BANGLA(Global)
+#EXTINF:-1 xui-id="187" tvg-id="ATNBANG" tvg-name="ATN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA(Global)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="BANGLA",INDEPENDENT TV (Global)
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV (Global)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://172.16.29.34:80/images/b5654a5be0b7fd5bdad19da12d6369c9.png" group-title="BANGLA",ATN NEWS (Global)
+#EXTINF:-1 xui-id="190" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS (Global)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 xui-id="204" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="http://172.16.29.34:80/images/fdc864c948ed26cfb28123b32ee080b6.png" group-title="BANGLA",CHANNEL I HD (Global)
+#EXTINF:-1 xui-id="204" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLA",CHANNEL I HD (Global)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 xui-id="208" tvg-id="CHAN24" tvg-name="CHANNEL24 HD" tvg-logo="http://172.16.29.34:80/images/685afab95090a16e6bb9a5d949f100f8.png" group-title="BANGLA",CHANNEL24 HD (Global)
+#EXTINF:-1 xui-id="208" tvg-id="CHAN24" tvg-name="CHANNEL24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="BANGLA",CHANNEL24 HD (Global)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="http://172.16.29.34:80/images/7098e69fb209aa6ac0111bdb3e355dee.png" group-title="BANGLA",CHANNEL9 HD
+#EXTINF:-1 xui-id="210" tvg-id="CH9" tvg-name="CHANNEL9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="BANGLA",CHANNEL9 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/ts
-#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://172.16.29.34:80/images/c799263234f97715c87899b48e8b2c01.png" group-title="BANGLA",DBC NEWS HD (Global)
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD (Global)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-name="BD: Deepto" group-title="BANGLA",BD: Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -90,17 +88,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="BANGLA",SOMOY TV HD
+#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="BANGLA",SOMOY TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://172.16.29.34:80/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="BANGLA",SOMOY TV HD(Global)
+#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="BANGLA",SOMOY TV HD(Global)
 https://xfireflix.fun/file/opplex/playlist.m3u?id=245925&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" tvg-name="BD:Ekattor tv" group-title="BANGLA", Ekattor tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" group-title="BANGLA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="http://172.16.29.34:80/images/b6069fe530432541f89118683c4150f4.png" group-title="BANGLA",DEEPTO TV HD
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Logo_of_Deepto_TV.svg" group-title="BANGLA",DEEPTO TV HD
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -144,30 +140,30 @@ https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 https://is.gd/p9ZM3S
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="INDIAN-BANGLA",Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="http://172.16.29.34:80/images/fbc9456bd23ddd8a962832cef4ee832b.png" group-title="HINDI",SONY MAX HD
+#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Sony_MAX_Logo_%282022%29.png" group-title="HINDI",SONY MAX HD
 http://87.255.35.150:18851
-#EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD
+#EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/SET_India_Logo_%282022%29.png" group-title="HINDI",SONY HD
 http://66.102.120.18:8000/play/a005
-#EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://172.16.29.34:80/images/7a1c797c64aa074507a0ac7710811a83.png" group-title="HINDI",SONY HD (Global)
+#EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/SET_India_Logo_%282022%29.png" group-title="HINDI",SONY HD (Global)
 http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://172.16.29.34:80/images/fbc0a4058f6120dee64a164102b3d1c0.png" group-title="HINDI",SONY SUB HD
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="HINDI",SONY SUB HD
 http://66.102.120.18:8000/play/a00d
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="HINDI",SONY PAL
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sony_PAL_Logo_%282022%29.png" group-title="HINDI",SONY PAL
 http://87.255.35.150:18887
 #EXTINF:-1 group-title="HINDI",SONY KAL
 http://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://172.16.29.34:80/images/05eac48a3d983bc9f0e4e3739e7e64fe.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
+#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sony_BBC_Earth_Logo_%282024%29.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
 http://66.102.120.18:8000/play/a01r
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://172.16.29.2:8090/assets/images/discoveryhd.png" group-title="DOCUMENTORY",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="DOCUMENTORY",Discovery HD
 http://66.102.120.18:8000/play/a01k
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="DOCUMENTORY",TLC HD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="DOCUMENTORY",TLC HD 
 http://66.102.120.18:8000/play/a01c
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://172.16.29.34:80/images/779081c0a7fb33f09f91fa9639bf3298.png" group-title="DOCUMENTORY",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="DOCUMENTORY",NAT GEO HD
 http://66.102.120.18:8000/play/a01f
-#EXTINF:-1 tvg-id="NGWNL" tvg-name="NAT GEO WILD HD" tvg-logo="http://172.16.29.34:80/images/32af5340b8b18b721c5fed3486d92592.png" group-title="DOCUMENTORY",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NGWNL" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="DOCUMENTORY",NAT GEO WILD HD
 http://66.102.120.18:8000/play/a01d
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://is.gd/Wkls3U" group-title="DOCUMENTORY",HISTORY TV18 HD
 http://66.102.120.18:8000/play/a01q
@@ -175,11 +171,11 @@ http://66.102.120.18:8000/play/a01q
 http://66.102.120.18:8000/play/a00o
 #EXTINF:-1  tvg-id="starmovieshd.in" tvg-logo="https://is.gd/xZCCFH" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES", & Picture HD 
 http://66.102.120.18:8000/play/a01t
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Sony PiX
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Sony_PIX_Logo_%282022%29.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Sony PiX
 http://66.102.120.18:8000/play/a01z
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies HD
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Star_Movies_2024.svg/1024px-Star_Movies_2024.svg.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies HD
 http://66.102.120.18:8000/play/a021
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="http://172.16.29.2:8090/assets/images/sonypix.png" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies Select HD 
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/648gXT" tvg-name="IN: STAR MOVIE (4K)." group-title="MOVIES",Star Movies Select HD 
 http://66.102.120.18:8000/play/a020
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
 http://66.102.120.18:8000/play/a01s
