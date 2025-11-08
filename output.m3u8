@@ -105,17 +105,17 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png",𝙈𝙔 𝙏𝙑
 https://mytvINDIAN-bangla.com/0.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",Zee Bangla HD (cloudfront)
-https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
+http://103.182.170.32:8888/play/a048
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA
 http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34731
-http://103.182.170.32:8888/play/a048
+
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
 http://87.255.35.150:18238
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Global)
 https://xfireflix.fun/file/opplex/playlist.m3u?id=245893&e=.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
+http://103.182.170.32:8888/play/a046
 http://87.255.35.150:18237/
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
 http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34726
