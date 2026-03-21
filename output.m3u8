@@ -34,12 +34,15 @@ http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T-Sports HD (Backup)
+http://103.161.153.165:8000/play/tspohd/index.m3u8
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34:80/images/366821d7939d11a67de52c40f77516c1.png" group-title="SPORTS",EURO SPORTS HD
 http://66.102.120.18:8000/play/a01g
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 1 HD
+http://103.161.153.165:8000/play/stp1h/index.m3u8
 http://87.255.35.150:18891
 #EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34:80/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 2 HD
+http://103.161.153.165:8000/play/stp2h/index.m3u8
 http://87.255.35.150:18892
 #EXTINF:-1 xui-id="328" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://172.16.29.34:80/images/69582a69b467ef2333210bf39a4574fd.png" group-title="SPORTS",SONY TEN 1 HD
 http://103.182.170.32:8888/play/a04j
@@ -51,6 +54,7 @@ http://66.102.120.18:8000/play/a01y
 http://66.102.120.18:8000/play/a010
 
 #EXTINF:-1 xui-id="350" tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.34:80/images/d17c550e4e11abf5c74a2baf3c9041a8.png" group-title="SPORTS",STAR SPORTS Hindi
+http://103.161.153.165:8000/play/a060/index.m3u8
 http://87.255.35.150:18882
 #EXTINF:-1 xui-id="352" tvg-id="" tvg-name="STAR SPORTS SL 1 HD" tvg-logo="http://172.16.29.34:80/images/904de69c66d442610adafe67fa97b90a.png" group-title="SPORTS",STAR SPORTS SL 1 HD
 http://87.255.35.150:18893
@@ -109,20 +113,18 @@ https://mytvINDIAN-bangla.com/0.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",Zee Bangla HD (cloudfront)
 http://103.175.242.10:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA
-http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34731
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Backup)
 http://103.182.170.32:8888/play/a048
-http://87.255.35.150:18238
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-name="BD: ZEE BANGLA (4K)." group-title="INDIAN-BANGLA",BD: ZEE BANGLA (Global)
-https://xfireflix.fun/file/opplex/playlist.m3u?id=245893&e=.m3u8
+http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 xui-id="389" tvg-id="JALSHA" tvg-name="STAR JALSHA HD" tvg-logo="http://172.16.29.34:80/images/dfb21b1c3676fd868fb19fd3a5be5b6d.png" group-title="INDIAN-BANGLA",STAR JALSHA HD (Cloudfront)
-http://103.175.242.10:8080/starjalsha/index.m3u8
-http://87.255.35.150:18237/
+http://103.99.249.139/starjalsha/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA
-http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34726
+http://103.182.170.32:8888/play/a046
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Backup)
+http://103.161.153.165:8000/play/starjal/index.m3u8
 http://filex.me:8080//live/755766/755766/522638.ts
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-name="BD: STAR JALSHA (4K)." group-title="INDIAN-BANGLA",BD: STAR JALSHA(Global)
 https://xfireflix.fun/file/opplex/playlist.m3u?id=245898&e=.m3u8
@@ -144,15 +146,19 @@ https://is.gd/p9ZM3S
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="#" group-title="INDIAN-BANGLA",Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Sony_MAX_Logo_%282022%29.png" group-title="HINDI",SONY MAX HD
+http://103.99.249.139/sonymax/index.m3u8
+http://103.161.153.165:8000/play/a01k/index.m3u8
 http://87.255.35.150:18851
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/SET_India_Logo_%282022%29.png" group-title="HINDI",SONY HD
+http://103.161.153.165:8000/play/a01i/index.m3u8
 http://66.102.120.18:8000/play/a005
 #EXTINF:-1 xui-id="395" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/SET_India_Logo_%282022%29.png" group-title="HINDI",SONY HD (Global)
 http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-name="IN: SONY SAB (4K)." group-title="HINDI",SONY SAB.
+http://103.99.249.139/sonysab/index.m3u8
 http://103.182.170.32:8888/play/a03r
 #EXTINF:-1 xui-id="397" tvg-id="" tvg-name="SUB TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="HINDI",SONY SUB HD
-http://filex.me:8080/live/755766/755766/275044.ts
+http://103.161.153.165:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sony_PAL_Logo_%282022%29.png" group-title="HINDI",SONY PAL
 http://87.255.35.150:18887
 #EXTINF:-1 group-title="HINDI",SONY KAL
@@ -188,6 +194,7 @@ http://103.182.170.32:8888/play/a02a
 http://66.102.120.18:8000/play/a07a
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/N39fsV" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",Disney HD 
 http://103.182.170.32:8888/play/a04g
+http://103.161.153.165:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://is.gd/IN62T9" tvg-name="IN: STAR MOVIE (4K)." group-title="HINDI",Sony YAY 
 http://103.182.170.32:8888/play/a04m
 #EXTINF:-1 xui-id="377" tvg-id="" tvg-name="BBC WORLD" tvg-logo="http://172.16.29.34:80/images/c5151865a8b08fadc43eeb3177b30613.png" group-title="NEWS",BBC WORLD
